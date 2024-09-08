@@ -1,4 +1,5 @@
-## Busca de Atletas Brasileiros 
+
+## Busca de Atletas Brasileiros - Imersão Dev com Google Gemini
 
 **Descubra os maiores talentos do esporte brasileiro!**
 
